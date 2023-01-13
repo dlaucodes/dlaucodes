@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlaucodes&label=Profile%20views&color=0e75b6&style=flat" alt="dlaucodes" /> </p>
 
-- 🔭 I’m currently working on **Airbnb Fullstack Clone**
+- 🔭 I’m currently working on Airbnb Fullstack Clone
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning Python
 
-- 📫 How to reach me **dlaucodes@gmail.com**
+- 📫 How to reach me dlaucodes@gmail.com
 
-- ⚡ Fun fact **I  ❤️  cars && working out **
+- ⚡ Fun fact I  ❤️  cars && working out 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
