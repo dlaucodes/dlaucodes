@@ -38,6 +38,5 @@ Frameworks and Libraries
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 </p></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlaucodes&show_icons=true&locale=en" alt="dlaucodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlaucodes&" alt="dlaucodes" /></p>
