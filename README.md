@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlaucodes&label=Profile%20views&color=0e75b6&style=flat" alt="dlaucodes" /> </p>
 
-- 🔭 I’m currently working on: Airbnb Fullstack Clone
+- 🔭 I’m currently working on: Data Structures & Algorithms
 
 - 🌱 I’m currently learning: Python
 
