@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: Python
 
-- 📫 How to reach me: dlaucodes@gmail.com
+- 📫 How to reach me: lau.chun.dev.com
 
 - ⚡ Fun fact: I  ❤️  cars && working out 
 
