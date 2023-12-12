@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chun Lau</h1>
 <h3 align="center">Passionate FullStack Developer from New York</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/d368a5f71afcbeb7d6e55cbdc8401ade.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hl6oqrdzu36gwg4zdk1fvct43qmeoso0j7cs2e9t&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlaucodes&label=Profile%20views&color=0e75b6&style=flat" alt="dlaucodes" /> </p>
 
